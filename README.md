@@ -9,7 +9,7 @@ h1 align="center">Hi 👋, I'm Tasnim Tabassum</h1>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tasnim-tabassum-5a46b7207/](https://www.linkedin.com/in/tasnim-tabassum-5a46b7207/)
 
-- ⚡ Fun fact **Do you know there is a superpower named "Universe Fusion"? I love reading books and immerse myself in the captivating stories that becomes the gateway of adventure in another Universe!!!**
+- ⚡ Fun fact : **Do you know there is a superpower named "Universe Fusion"? I love reading books and immerse myself in the captivating stories that becomes the gateway of adventure in another Universe!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
