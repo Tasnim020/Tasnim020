@@ -1,5 +1,5 @@
 h1 align="center">Hi 👋, I'm Tasnim Tabassum</h1>
-<h3 align="center">A passionate Software tester from Virginia, United states</h3> https://www.instagram.com/p/CvH31giu5dEIxmKH5MM7e7LqlkDdsnsZqrCrhE0/
+<h3 align="center">A passionate Software Engineer in Testing from Virginia, United states</h3> https://www.instagram.com/p/CvH31giu5dEIxmKH5MM7e7LqlkDdsnsZqrCrhE0/
 
 - 🌱 I’m currently learning **Software automation**
 
@@ -9,7 +9,7 @@ h1 align="center">Hi 👋, I'm Tasnim Tabassum</h1>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tasnim-tabassum-5a46b7207/](https://www.linkedin.com/in/tasnim-tabassum-5a46b7207/)
 
-- ⚡ Fun fact **An avid traveler with a dream of a world tour, having visited 10 countries so far!**
+- ⚡ Fun fact **Do you know there is a superpower named "Universe Fusion"? I love reading books and immerse myself in the captivating stories that becomes the gateway of adventure in another Universe!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
