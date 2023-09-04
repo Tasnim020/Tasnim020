@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasnim Tabassum</h1>
 <h3 align="center">A passionate Software Engineer in Testing from Virginia, United states</h3> 
 
-https://instagram.com/verse_of_nostalgia?igshid=OGQ5ZDc2ODk2ZA==
 
 - 🌱 I’m currently learning **Software automation**
 
